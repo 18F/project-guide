@@ -1,28 +1,6 @@
-## 18F Content Guide
+## 18F Project Guide
 
-This is the repository for the [18F Content Guide](https://content-guide.18f.gov). This guide was developed for 18F employees, but we hope it’s a useful reference for anyone.
-
-For a detailed introduction, see [how to use this guide](https://content-guide.18f.gov/how-to-use-this-guide).
-
-## History
-
-18F's Content Guild ([#g-content](https://18f.slack.com/archives/g-content)) maintains this guide.
-
-We started by adapting [GOV.UK’s work](https://www.gov.uk/guidance/content-design), and we’d like to thank their team for championing plain language and information accessibility. Over time, we've expanded the guide to cover more topics, reorganized things, and moved the site from 18F Pages to [Federalist](https://github.com/18F/federalist). This guide is a work in progress, and we'll continue refining it over time.
-
-### Contributors
-
-* [Emileigh Barnes](https://github.com/emileighoutlaw) - Guild Lead
-* [Nicole Fenton](https://github.com/nicoleslaw)
-* [Andre Francisco](https://github.com/awfrancisco)
-* [Britta Gustafson](https://github.com/brittag)
-* [James Hupp](https://github.com/jameshupp)
-* [Andrew Maier](https://github.com/andrewmaier)
-* [Corey Mahoney](https://github.com/coreycaitlin)
-* [Kate Saul](https://github.com/kategarklavs) - Guild Lead
-* [Will Slack](https://github.com/wslack)
-* [Tadhg O'Higgins](https://github.com/tadhg-ohiggins)
-* [Atul Varma](https://github.com/toolness)
+This guide was developed for 18F employees, but we hope it’s a useful reference for anyone.
 
 ### Running the site
 
