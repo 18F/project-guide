@@ -1,6 +1,6 @@
 markdown: kramdown
-title: 18F Content Guide
-description: How to plan, write, and manage content at 18F.
+title: 18F Project Guide
+description: Resources and advice for managing projects at 18F.
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -18,13 +18,13 @@ sass:
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: 18F Content Guild
+  name: 18F Product Chapter
   url: https://18f.gsa.gov
 
 github:
   organization: 18F
-  repository: content-guide
-  default_branch: 18f-pages
+  repository: project-guide
+  default_branch: master
 
 collections:
   pages:
@@ -151,11 +151,11 @@ navigation:
     internal: true
 
 repos:
-- name: 18F Content Guide
+- name: 18F Project Guide
   description: Main repository
-  url: https://github.com/18F/content-guide
+  url: https://github.com/18F/project-guide
 
-google_analytics_ua: UA-48605964-19
+google_analytics_ua: 
 
 
 # Configuration for jekyll_pages_api_search plugin gem.
