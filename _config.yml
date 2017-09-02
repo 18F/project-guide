@@ -93,10 +93,10 @@ navigation:
   - text: What to cover, part 2: Gaining insight
     url: what-to-cover-insight
     internal: true
-- text: Starting discovery
+- text: Additional resources
   blurb: |
-    Starting the discovery phase of a project.
-  url: starting-discovery/
+    Additional helpful guides and examples.
+  url: additional-resources/
   internal: true
   generated: true
   children:
