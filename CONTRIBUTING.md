@@ -16,5 +16,5 @@ No one's perfect — especially not us. If you think our guide got something wr
 Our process for changing the guide is as follows:
 
 1. You'll file an issue asking for a style change. (Be sure to let us know why you made the request!)
-1. Members of the content guild will discuss the proposed change and open an emoji vote on your issue. 
-1. After ~5 days, our guild will close voting. We'll either implement your change or leave you a note explaining why we chose not to.
+1. Members of the product team will discuss the proposed change and open an emoji vote on your issue. 
+1. After ~5 days, we will close voting. We'll either implement your change or leave you a note explaining why we chose not to.
