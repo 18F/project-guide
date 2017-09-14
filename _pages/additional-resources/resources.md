@@ -26,8 +26,8 @@ The following are guides and resources for finishing your project, but you shoul
 - [OMB Federal Source Code Policy](https://sourcecode.cio.gov/)
 - A post I have found very helpful by a former Presidential Innovation Fellow about open source: [Why Open Source](https://ben.balter.com/2015/11/23/why-open-source/)
 - Open source code reviews: Each project team at 18F treats code review a little differently but documents it in a Team Practices document or a Contributing document. What all 18F teams have in common is that they use Github's Pull Request and [code review tools](https://help.github.com/articles/about-pull-request-reviews/) to facilitate code reviews.
- - [https://github.com/18F/identity-idp/pull/507](https://github.com/18F/identity-idp/pull/507)
- - [https://github.com/18F/identity-idp/pull/650](https://github.com/18F/identity-idp/pull/650)
- - [https://github.com/18F/identity-idp/pull/498](https://github.com/18F/identity-idp/pull/498)
- - [FOIA project's pull request process](https://github.com/18F/foia-recommendations/blob/master/team-practices.md#pull-requests)
- - [FEC project's pull request process](https://github.com/18F/openFEC/blob/develop/CONTRIBUTING.md#pull-requests)
+  - [https://github.com/18F/identity-idp/pull/507](https://github.com/18F/identity-idp/pull/507)
+  - [https://github.com/18F/identity-idp/pull/650](https://github.com/18F/identity-idp/pull/650)
+  - [https://github.com/18F/identity-idp/pull/498](https://github.com/18F/identity-idp/pull/498)
+  - [FOIA project's pull request process](https://github.com/18F/foia-recommendations/blob/master/team-practices.md#pull-requests)
+  - [FEC project's pull request process](https://github.com/18F/openFEC/blob/develop/CONTRIBUTING.md#pull-requests)
