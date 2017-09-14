@@ -80,7 +80,7 @@ navigation:
 - text: Kick off
   blurb: |
     Plan a kick off workshop with your partner
-  url: plan-a-kick-off/
+  url: kick-off/
   internal: true
   generated: true
   children:
