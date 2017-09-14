@@ -4,7 +4,7 @@ This guide was developed for 18F employees, but we hope it’s a useful referenc
 
 ### Running the site
 
-The 18F Content Guide runs on [Jekyll](http://jekyllrb.com/).
+The 18F Project Guide runs on [Jekyll](http://jekyllrb.com/).
 
 To run it locally:
 
