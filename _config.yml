@@ -1,17 +1,17 @@
 markdown: kramdown
 title: 18F Project Guide
-description: Resources and advice for managing projects at 18F.
 exclude:
 - CONTRIBUTING.md
 - Gemfile
 - Gemfile.lock
+- LICENSE.md
 - README.md
 - go
+- vendor
 
 permalink: pretty
 highlighter: rouge
-kramdown:
-  auto_ids: true
+incremental: true
 
 sass:
   style: :compressed
@@ -21,98 +21,64 @@ author:
   name: 18F Product Chapter
   url: https://18f.gsa.gov
 
-github:
-  organization: 18F
-  repository: project-guide
-  default_branch: master
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
-generate_nodes: true
-flat_namespace: true
-
-gems:
-  - jekyll-redirect-from
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
+logourl: /assets/img/18f-logo.png
+logoalt: 18F logo
 
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Welcome to leading a project
-  blurb: |
-    This is a guide to a project lead’s responsibilities and decisions at the beginning of a project.
-  url: welcome/
+- text: Welcome to Leading a Project
+  url: index.html
   internal: true
-  generated: true
-  children:
-  - text: About leading 18F projects
-    url: about-leading-18f-projects/
-    internal: true
-  - text: License
-    url: license/
-    internal: true
-- text: Starting a new project
-  blurb: |
-    How to start a new project at 18F.
+- text: About Leading 18F Projects
+  url: about-leading-18f-projects/
+  internal: true
+- text: Starting a New Project
   url: starting-a-new-project/
   internal: true
-  generated: true
   children:
-  - text: First steps
-    url: first-steps
+  - text: Choose Your Tools
+    url: choose-your-tools/
     internal: true
-   - text: Choose your major processes and tools
-    url: choose-your-tools
+  - text: Communication and Rituals
+    url: communication-and-rituals/
     internal: true
-   - text: Communication and rituals
-    url: communication-and-rituals
+  - text: First Steps
+    url: first-steps/
     internal: true
-- text: Kick off
-  blurb: |
-    Plan a kick off workshop with your partner
+- text: Kick Off
   url: kick-off/
   internal: true
-  generated: true
   children:
-  - text: Who to invite
-    url: who-to-invite
+  - text: Who to Invite
+    url: who-to-invite/
     internal: true
-  - text: What to cover, part 1: Share
-    url: what-to-cover-share
+  - text: What to Cover, Part 1 - Share
+    url: what-to-cover-share/
     internal: true
-  - text: What to cover, part 2: Gaining insight
-    url: what-to-cover-insight
+  - text: What to Cover, Part 2 - Gaining Insight
+    url: what-to-cover-insight/
     internal: true
-- text: Additional resources
-  blurb: |
-    Additional helpful guides and examples.
-  url: additional-resources/
+- text: Resources
+  url: resources/
   internal: true
-  generated: true
-  children:
-  - text: Resources
-    url: resources
-    internal: true
-
-
 
 repos:
 - name: 18F Project Guide
   description: Main repository
   url: https://github.com/18F/project-guide
 
+back_link:
+  url: "https://pages.18f.gov/guides/"
+  text: Read more 18F Guides
+
 google_analytics_ua: 
 
+defaults:
+- scope:
+    path: ""
+  values:
+    layout: "guides_style_18f_default"
 
 # Configuration for jekyll_pages_api_search plugin gem.
 jekyll_pages_api_search:
