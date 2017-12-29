@@ -11,9 +11,9 @@ This is a guide to a project lead's responsibilities and decisions at the beginn
 - Planning your project's kickoff workshop with your partner
 - General advice and suggestions for a happy team and partner
 
-As a project lead, you're responsible for the strategy, roadmap, and feature definition of a product or project. Your work will vary depending on the type and size of your project, but it's always your job to support your team as a servant leader and a sh-t umbrella. Protect your team from bureaucracy, paperwork, and politics. Remove blockers. Help design your team's processes so that momentum is on your side and the system must put effort into slowing you down, instead of waiting for approvals at every step.
+Your work will vary depending on the type and size of your project, but it's always your job to support your team as a servant leader and a sh-t umbrella. Protect your team from bureaucracy, paperwork, and politics. Remove blockers. Help design your team's processes so that momentum is on your side and the system must put effort into slowing you down, instead of waiting for approvals at every step.
 
-Simultaneously, collaboration with our partners is crucial (we tend to use the term _partner agency_ instead of _client_). Many of the recommendations in this document are designed to help you ensure everyone understands and agrees upon the mission, vision, and goals of the project. Staying in good communication and preventing surprises is crucial.
+Simultaneously, collaboration with our partners is crucial (we tend to use the term _partner agency_ instead of _client_). Many of the recommendations in this document are designed to help you ensure everyone understands and agrees upon the goals of the project. Staying in good communication and preventing surprises is crucial.
 
 We are often asking our partners to work in a totally new and different way. We're asking them to abandon their traditional approach to contractors as well as many of the ways they traditionally manage risk, for example, by writing rigid, exhaustive plans and requirements. You will need them to help provide your team top cover, and the easier you can make this, the better your project will function.
 

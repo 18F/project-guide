@@ -3,12 +3,12 @@ permalink: /starting-a-new-project/communication-and-rituals/
 title: Communication and rituals
 parent: Starting a New Project
 ---
-## Foundational team processes
+## Leading a build
 
-- We practice agile, but we don't specify an instantiation — many teams use scrum or kanban (or a version of them). To coordinate across multiple teams, some projects use [Scaled Agile Framework (SAFe)](http://www.scaledagileframework.com/guidance-essential-safe/). You can reach out to the agile guild for advice on #g-agile.
-- Prior to starting work on the project, your team should define standards for creating backlog issues. Many teams like to follow a system by which each issue/card contains a title, user story, some background or context, and completion or acceptance criteria. For example, [this is the FEC team's guide for writing a good](https://github.com/18F/FEC/wiki/1.-FEC-team-task-board#issues) [issue](https://github.com/18F/FEC/wiki/1.-FEC-team-task-board#issues), or the [Gherkin style of writing software requirements](http://docs.behat.org/en/v2.5/guides/1.gherkin.html).
-- Likewise, it's a best practice to make sure each of your user stories align with one of your project's higher-level epics or goals, and reference a product [persona](https://methods.18f.gov/decide/personas/) or prioritized user.
-- Some teams keep a running notes doc for each sprint for their goals, meeting agendas, and notes. This can also be used to inform your [release notes, which are a great way to share updates with your users and document your progress.](https://18f.gsa.gov/2017/01/17/life-changing-magic-writing-release-notes/)
+- It's most important to set up a process that allows the team to work iteratively and measure results in the direction of a clear vision. To this end, we practice agile, but we don't specify an instantiation — many teams use scrum or kanban (or a version of them). To coordinate across multiple teams, some projects use [Scaled Agile Framework (SAFe)](http://www.scaledagileframework.com/guidance-essential-safe/). You can reach out to the agile guild for advice on #g-agile. 
+- You should take time with your team in the beginning to define standards for creating backlog issues. Many teams like to follow a system by which each issue/card contains a title, user story, some background or context, and completion or acceptance criteria. For example, [this is the FEC team's guide for writing a good](https://github.com/18F/FEC/wiki/1.-FEC-team-task-board#issues) [issue](https://github.com/18F/FEC/wiki/1.-FEC-team-task-board#issues), or the [Gherkin style of writing software requirements](http://docs.behat.org/en/v2.5/guides/1.gherkin.html).
+- You should ensure that a product roadmap exists at all times, containing high-level 'customer promises' in prioritized order. Your backlog should map to these customer promises. Some examples are here: [Alaska product roadmap](https://app.mural.ly/t/gsa6/m/gsa6/1493828126408/2c1fd30717381a20f4bf251e57a1c344f9e2c3ba), [CMS product roadmap](https://app.mural.ly/t/gsa6/m/gsa6/1513038917977/bc5ed885fa24db23ee957d217bec6c17993d7d70)
+() - Some teams keep a running notes doc for each sprint for their goals, meeting agendas, and notes. This can also be used to inform your [release notes, which are a great way to share updates with your users and document your progress.](https://18f.gsa.gov/2017/01/17/life-changing-magic-writing-release-notes/)
 - For additional team practices, see next steps.
 
 ## Dev team processes
@@ -52,7 +52,7 @@ Decide on the time of day, day of the week, and format for major meetings. The [
 - Ping your team before sprint planning to make sure the issues are all up to date before starting.
 - Teams can differ greatly on point estimation. Some teams simply use small/medium/large and others use the traditional fibonacci sequence. For example, the FEC team estimates 1, 2, or 3 (analogous to small/medium/large) and then after all of the issues for the sprint have been assigned but before the end of sprint planning, team members individually review the work assigned to them. They then discuss as a team if the workload is reasonable and realistic, and adjust and prioritize as necessary.
 
-### Backlog grooming and sprint check in:
+### Backlog refinement:
 
 - This involves reviewing and updating your backlog, and then prioritizing the issues with your partner agency.
 - It can be easier to prepare points of discussion, take notes during the meeting, and then update the issues later, instead of juggling video chat and GitHub during the meeting.
@@ -63,7 +63,7 @@ Decide on the time of day, day of the week, and format for major meetings. The [
 - Retros are crucial to a cohesive, effective team. You should do them every sprint. Some teams occasionally include their partner in retros. Some project leads prefer to lead retro; some teams rotate the leader of the retro throughout the team.
 - Release sync: Most teams aim to publicly launch updates at least every other sprint. A regular launch timeline and a pre-launch sync with the team can be useful. This is an example of [the FEC team's release checklist](https://github.com/18F/FEC/wiki/Release-checklist).
 
-### Epic planning (usually every ~6 sprints or quarterly)
+### Product iteration planning (usually every 3 months)
 
 - Review your goals, vision, and strategy in this meeting. Are you still on track? Does your vision still make sense? Do you need to pivot?
 - This is also a good time to onboard new team members and hold a larger retro with your team and your partner agency.
