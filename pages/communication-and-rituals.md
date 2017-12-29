@@ -3,12 +3,16 @@ permalink: /starting-a-new-project/communication-and-rituals/
 title: Communication and rituals
 parent: Starting a New Project
 ---
-## Leading a build
+
+## Leading a foundation engagement
+
+
+## Leading a build (from discovery to delivery)
 
 - It's most important to set up a process that allows the team to work iteratively and measure results in the direction of a clear vision. To this end, we practice agile, but we don't specify an instantiation — many teams use scrum or kanban (or a version of them). To coordinate across multiple teams, some projects use [Scaled Agile Framework (SAFe)](http://www.scaledagileframework.com/guidance-essential-safe/). You can reach out to the agile guild for advice on #g-agile. 
 - You should take time with your team in the beginning to define standards for creating backlog issues. Many teams like to follow a system by which each issue/card contains a title, user story, some background or context, and completion or acceptance criteria. For example, [this is the FEC team's guide for writing a good](https://github.com/18F/FEC/wiki/1.-FEC-team-task-board#issues) [issue](https://github.com/18F/FEC/wiki/1.-FEC-team-task-board#issues), or the [Gherkin style of writing software requirements](http://docs.behat.org/en/v2.5/guides/1.gherkin.html).
-- You should ensure that a product roadmap exists at all times, containing high-level 'customer promises' in prioritized order. Your backlog should map to these customer promises. Some examples are here: [Alaska product roadmap](https://app.mural.ly/t/gsa6/m/gsa6/1493828126408/2c1fd30717381a20f4bf251e57a1c344f9e2c3ba), [CMS product roadmap](https://app.mural.ly/t/gsa6/m/gsa6/1513038917977/bc5ed885fa24db23ee957d217bec6c17993d7d70)
-- Some teams keep a running notes doc for each sprint for their goals, meeting agendas, and notes. This can also be used to inform your [release notes, which are a great way to share updates with your users and document your progress.](https://18f.gsa.gov/2017/01/17/life-changing-magic-writing-release-notes/)
+- You should ensure that a product roadmap exists at all times, containing high-level 'customer promises' in prioritized order. Your backlog should map to these customer promises. Some examples are here: [Alaska product roadmap](https://app.mural.ly/t/gsa6/m/gsa6/1493828126408/2c1fd30717381a20f4bf251e57a1c344f9e2c3ba), [CMS product roadmap](https://app.mural.ly/t/gsa6/m/gsa6/1513038917977/bc5ed885fa24db23ee957d217bec6c17993d7d70).
+- Some teams keep a running notes doc for each sprint for their goals, meeting agendas, and notes. This can also be used to inform your [release notes, which are a great way to share updates with your users and document your progress.](https://18f.gsa.gov/2017/01/17/life-changing-magic-writing-release-notes/).
 - For additional team practices, see next steps.
 
 ## Dev team processes
